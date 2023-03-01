@@ -11,10 +11,10 @@ function start(cmd) {
 	})
 }
 
-start('clear')
+//start('clear')
 
 // start('screenfetch')
 
 start('bash')
 
-console.log('Terminal ready to use!')
+console.log('Panel Siap Dipakai Ketikan Perintah Anda')
